@@ -1,0 +1,5 @@
+train: ../dataset/train/images
+val: ../dataset/valid/images
+
+nc: 20
+names: ['Air_Mineral -0 Cal-', 'Alpukat -160 Cal-', 'Ayam_Goreng -245 Cal-', 'Berries -57 Cal-', 'Cola -37 Cal-', 'Mie -138 Cal-', 'Nasi -130 Cal-', 'Oatmeal -390 Cal-', 'Olahan_Ikan -132 Cal-', 'Olahan_Kentang -150 Cal-', 'Pasta -131 Cal-', 'Pisang -105 Cal-', 'Roti -264 Cal-', 'Salad -20 Cal-', 'Sate -255 Cal-', 'Susu -42 Cal-', 'Tahu -76 Cal-', 'Teh -1 Cal-', 'Telur -155 Cal-', 'Tempe -192 Cal-']

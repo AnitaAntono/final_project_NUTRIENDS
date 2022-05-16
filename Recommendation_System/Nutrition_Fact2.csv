@@ -1,0 +1,51 @@
+Food_Name;Serving_Size_(g);Calories;Total_Fat_(g);Cholesterol_(mg);Sodium_(mg);Potassium_(mg);Total_Carbohydrate_(g);Protein_(g);category
+Pie Apple;125;296;14;0;251;81;43;2.4;Dessert
+Bibimbap;864;972;22;239;1655;1247;155;36;Main Course
+Salad Caesar;480;481;40;36;1152;613;10;10;Main Course
+Cheesecake;125;401;28;69;548;113;32;6.9;Dessert
+Kari Ayam;235;243;11;74;73;374;7.5;28;Main Course
+Chicken Wings;27;88;6.5;22;105;46;2.6;4.5;Side Dish
+Kue Coklat;109;424;22;24;379;294;58;3.8;Dessert
+Coklat Mousse;202;455;32;283;77;32;32;8.4;Dessert
+Club Sandwich;349;817;46;203;1867;710;42;56;Main Course
+Creme Brulee;200;687;60;444;54;179;30;8.3;Dessert
+Cupcakes;75;292;15;17;261;203;40;2.6;Dessert
+Deviled Eggs;30;68;5.8;95;69;42;0.5;3.2;Side Dish
+Donat;60;253;14;18;190;61;29;3.7;Dessert
+Dumpling;32;74;1.7;1.1;217;39;12;2;Side Dish
+Edamame;78;94;4;0;4.7;338;6.9;9.2;Side Dish
+Filet Mignon;85;230;15;82;46;280;0;22;Main Course
+Kentang Goreng;117;365;17;0;246;677;48;4;Main Course
+Kentang Panggang;84;219;11;129;237;97;23;7.3;Main Course
+Cumi Goreng;143;356;15;192;252;262;37;18;Main Course
+Nasi Goreng;137;238;4.1;25;530;104;45;5.5;Main Course
+Yogurt Beku;174;221;6.3;23;110;271;38;5.2;Dessert
+Garlic Bread;43;150;7.1;0;234;44;18;3.6;Main Course
+Greek Salad;159;134;15;25;370;238;7.4;5.1;Main Course
+Sandwich Keju;106;366;23;63;886;185;28;12;Main Course
+Salmon Panggang;227;468;28;143;138;872;0;50;Main Course
+Hamburger;226;540;27;122;791;570;40;34;Main Course
+Hotdog;48;155;14;28;409;121;1.3;5.6;Main Course
+Ice Cream;132;273;15;58;106;263;31;4.6;Dessert
+Lasagna;385;602;32;166;1576;1041;35;44;Main Course
+Mac n Cheese;198;376;16;5.9;669;255;47;9.7;Main Course
+Macarons;11;43;1.9;0.7;18;30;6;0.8;Dessert
+Sup Miso;241;59;3;0.1;1071;95;3.5;5.8;Side Dish
+Mussels;85;146;3.8;48;314;228;6.3;20;Side Dish
+Omellete;178;323;25;625;533;236;1.4;21;Main Course
+Onion Rings;100;410;25;14;776;167;44;3.9;Side Dish
+Oysters;25;41;1.2;25;53;76;2.5;4.7;Side Dish
+Pancakes;40;91;3.9;24;176;53;11;2.6;Dessert
+Panna Cotta;122;390;34;127;43;92;19;2.8;Dessert
+Peking Duck;275;663;41;118;925;527;42;30;Main Course
+Pizza;107;285;10;18;640;184;36;12;Main Course
+Ramen;707;954;35;227;2691;833;111;48;Main Course
+Sashimi;28;35;1.2;25;43;95;0.3;5.3;Main Course
+Spaghetti Bolognese;660;667;22;62;637;1135;84;35;Main Course
+Spaghetti Carbonara;512;1018;33;186;965;386;133;44;Main Course
+Steak;221;614;41;214;115;698;0;58;Main Course
+Strawberry Shortcake;283;485;29;99;322;342;52;6.7;Dessert
+Sushi;211;349;19;17;537;293;38;7.8;Main Course
+Takoyaki;39;58;2.5;19;161;67;5.8;3;Side Dish
+Tiramisu;174;572;44;307;300;161;35;8.3;Dessert
+Waffles;75;218;11;52;383;119;25;5.9;Dessert
